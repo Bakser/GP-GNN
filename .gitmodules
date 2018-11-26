@@ -1,0 +1,3 @@
+[submodule "bl_care"]
+	path = bl_care
+	url = https://github.com/laekov/emnlp2017-relation-extraction
